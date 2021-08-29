@@ -1,6 +1,6 @@
 # Web-Scraping-In-Python
 
-1. Web Scraping of Ecommerce website
+Web Scraping of Ecommerce website
 - www.jumia.com
 
 Built with 
@@ -9,5 +9,5 @@ Built with
 - BeautifulSoup - for screen scraping library
 - Python html.parser - html parser
 
-2. 
+
 
