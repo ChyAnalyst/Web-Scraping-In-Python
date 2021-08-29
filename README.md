@@ -1,4 +1,4 @@
-# Web-Scraping-In-Python
+# Jumia Ecommerce Webscraping In-Python
 
 Web Scraping of Ecommerce website
 - www.jumia.com
